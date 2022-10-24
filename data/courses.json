@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "name": "Spoken English",
+        "img": "image url",
+        "details": [
+            {
+                "id": "1",
+                "img": "Image url",
+                "description": "Spoken English course is basic level of learning speaking english.This course is for begginer who have not spoken yat. If you want to learn how to speak in english this course is perfect for you."
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "IELTS",
+        "img": "image url",
+        "details": [
+            {
+                "id": "1",
+                "img": "Image url",
+                "description": "IELTS [International English Language Testing System] is most popular course in the word. If you want to go to abroad to study you have to have a certificate on IELTS. We provide world class IELTS course."
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Grammar & Writing",
+        "img": "image url",
+        "details": [
+            {
+                "id": "1",
+                "img": "Image url",
+                "description": "Grammar and Writing course is most important for everyone weather student or others. Because if you do not have knowladge on English Grammar you cannot write or speak in english smartly and your writing is always rejected from others."
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Basic Computer",
+        "img": "image url",
+        "details": [
+            {
+                "id": "1",
+                "img": "Image url",
+                "description": "Having knowladge on Basic Computer is most important for every sector in life. Because this is the Technology based world. Presently every job has a common requirement that every candidte has to have knowladge on computer"
+            }
+        ]
+    }
+]
