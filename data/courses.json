@@ -46,5 +46,29 @@
                 "description": "Having knowladge on Basic Computer is most important for every sector in life. Because this is the Technology based world. Presently every job has a common requirement that every candidte has to have knowladge on computer"
             }
         ]
+    },
+    {
+        "id": "5",
+        "name": "Graphics Design",
+        "img": "image url",
+        "details": [
+            {
+                "id": "1",
+                "img": "Image url",
+                "description": "Graphics Design is most popular in digital sector. If you want build your career on graphics design this is a good decision for you. Online market place has high demand on Graphics Design."
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "name": "Special course for IELTS (PICU)",
+        "img": "image url",
+        "details": [
+            {
+                "id": "1",
+                "img": "Image url",
+                "description": "PICU means Pupils Intensive Care Unit. If you have already completed IELTS course but you have confused about your english skills this course is for you. This is a speacil club where you can justify and develop your english skills."
+            }
+        ]
     }
 ]

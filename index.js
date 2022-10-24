@@ -7,7 +7,7 @@ app.use(cors());
 const courses = require("./data/courses.json")
 
 app.get("/", (req, res) => {
-    res.send("Welcome to my Educational server");
+    res.send("Welcome to my Educational server. If you want to get all course data add /courses on the url above and if you want to get a specific course data add /courses/1 or numbers from 1 to 6.");
 });
 
 app.get("/courses", (req, res) => {
