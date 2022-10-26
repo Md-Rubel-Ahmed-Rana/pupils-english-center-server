@@ -1,11 +1,11 @@
 [
     {
         "id": "1",
-        "price": "25",
         "name": "Spoken English",
         "img": "https://i.postimg.cc/NjWTK0nY/speaking.jpg",
         "details": {
                 "id": "1",
+                "price": "25",
                 "name": "Spoken English",
                 "img": "https://i.postimg.cc/NjWTK0nY/speaking.jpg",
                 "description": "Spoken English course is basic level of learning speaking english.This course is for begginer who have not spoken yat. If you want to learn how to speak in english this course is perfect for you."
@@ -13,11 +13,11 @@
     },
     {
         "id": "2",
-        "price": "35",
         "name": "IELTS",
         "img": "https://i.postimg.cc/FK8PsmyJ/ielts.png",
         "details": {
                 "id": "1",
+                 "price": "35",
                 "name": "IELTS",
                 "img": "https://i.postimg.cc/FK8PsmyJ/ielts.png",
                 "description": "IELTS [International English Language Testing System] is most popular course in the word. If you want to go to abroad to study you have to have a certificate on IELTS. We provide world class IELTS course."
@@ -25,11 +25,11 @@
     },
     {
         "id": "3",
-        "price": "15",
         "name": "Grammar & Writing",
         "img": "https://i.postimg.cc/85Lbpvkq/writing.jpg",
         "details":{
                 "id": "1",
+                "price": "15",
                 "name": "Grammar & Writing",
                 "img": "https://i.postimg.cc/85Lbpvkq/writing.jpg",
                 "description": "Grammar and Writing course is most important for everyone weather student or others. Because if you do not have knowladge on English Grammar you cannot write or speak in english smartly and your writing is always rejected from others."
@@ -37,11 +37,11 @@
     },
     {
         "id": "4",
-        "price": "20",
         "name": "Basic Computer",
         "img": "https://i.postimg.cc/fLRPk5F6/basic-computer.jpg",
         "details":{
                 "id": "1",
+                "price": "20",
                 "name": "Basic Computer",
                 "img": "https://i.postimg.cc/fLRPk5F6/basic-computer.jpg",
                 "description": "Having knowladge on Basic Computer is most important for every sector in life. Because this is the Technology based world. Presently every job has a common requirement that every candidte has to have knowladge on computer"
@@ -49,11 +49,11 @@
     },
     {
         "id": "5",
-        "price": "10",
         "name": "Graphics Design",
         "img": "https://i.postimg.cc/x8xncctP/graphics-design.png",
         "details": {
                 "id": "1",
+                "price": "10",
                 "name": "Graphics Design",
                 "img": "https://i.postimg.cc/x8xncctP/graphics-design.png",
                 "description": "Graphics Design is most popular in digital sector. If you want build your career on graphics design this is a good decision for you. Online market place has high demand on Graphics Design."
@@ -61,11 +61,11 @@
     },
     {
         "id": "6",
-        "price": "50",
         "name": "PICU for IELTS",
         "img": "https://i.postimg.cc/d17VrRZx/picu.png",
         "details":{
                 "id": "1",
+                "price": "50",
                 "name": "PICU for IELTS",
                 "img": "https://i.postimg.cc/d17VrRZx/picu.png",
                 "description": "PICU means Pupils Intensive Care Unit. If you have already completed IELTS course but you have confused about your english skills this course is for you. This is a speacil club where you can justify and develop your english skills."
